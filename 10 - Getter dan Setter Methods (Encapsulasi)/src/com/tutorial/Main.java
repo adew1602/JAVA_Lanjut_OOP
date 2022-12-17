@@ -1,7 +1,8 @@
 package com.tutorial;
 
 class Data{
-    public int intPublic;
+   
+   
     private int intPrivate;
     private double doublePrivate;
 
