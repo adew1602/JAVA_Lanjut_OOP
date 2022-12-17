@@ -11,7 +11,7 @@ class Data{
     }
 
     void display(){
-        System.out.println(this.intPublic);
+        system.out
         System.out.println(this.intPrivate);
         System.out.println(this.doublePrivate);
     }
